@@ -267,7 +267,7 @@ section.spectacles .feature-item .text-muted {
 section.contact {
   position: relative;
   padding: 250px 0;
-  background-image: url("../img/dn.jpeg");
+  background-image: url("../img/dn.webp");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -368,3 +368,16 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+
+.logo {
+  background: black;
+  padding: 120px 20px;
+}
+
+.heart {
+  width: 50px;
+  height: 50px;
+  fill: #dd4b39;
+  vertical-align: top;
+}
